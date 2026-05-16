@@ -1,4 +1,4 @@
-# QA Report
+ZALUPA# QA Report
 
 ## Bug: Whitespace-only title is allowed
 
